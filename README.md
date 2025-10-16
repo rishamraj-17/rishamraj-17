@@ -4,7 +4,6 @@
 - 🤝 Always open to collaborating on exciting and impactful projects
 - 📧  Let's connect: rajrisham06@gmail.com
 - 😄 Pronouns: [Him]
-- ⚡ Fun fact: ... Scored an A+ in Biology , but chose the path of a coding enthusiast!
 
 <!---
 rishamraj-17/rishamraj-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
