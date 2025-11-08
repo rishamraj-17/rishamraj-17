@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishamraj-17(Risham Raj)
+- 👋 Hi, I’m @rishamraj-17
 - 🚀 Passionate about java and back-end development.
 - 🤝 Currently diving deep into Data Structures and Algorithms in Java
 - 🤝 Always open to collaborating on exciting and impactful projects
