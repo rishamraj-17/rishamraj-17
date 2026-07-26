@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @rishamraj-17
-- 🚀 Passionate about java and back-end development.
-- 🤝 Currently diving deep into Data Structures and Algorithms in Java
-- 🤝 Always open to collaborating on exciting and impactful projects
-- 📧  Let's connect: rajrisham06@gmail.com
-- 😄 Pronouns: [Him]
+### Hi, I'm Risham 👋
 
-<!---
-rishamraj-17/rishamraj-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Engineer in training — Java, Spring Boot, and a growing focus on AI-orchestrated systems.
+Computer Engineering student at Kathmandu University, class of 2027.
+
+---
+
+**🔧 Highlights from Projects**
+
+- **Algorithm research** — empirical comparison of Greedy, Dynamic Programming, and Branch & Bound for the 0/1 Knapsack problem across 18,000 benchmarked experiments; manuscript currently under peer review.
+- **Intelligent Traffic Moderator** — a systems-analysis project modeling adaptive traffic signal control.
+- **Garden Maze** — procedural maze generation and pathfinding in Python/OpenGL (DFS backtracking, BFS solver, real-time WASD navigation). 
+
+**💻 Stack**
+
+`Java` `Spring Boot` `Python` `PyOpenGL`
+
+**📊 DSA**
+
+320+ problems solved, focus on Dynamic Programming. [→ LeetCode](https://leetcode.com/u/theDummy/)
+
+**🌐 More**
+
+Portfolio: [rishamraj.com.np](https://rishamraj.com.np)
+Email: rajrisham06@gmail.com
