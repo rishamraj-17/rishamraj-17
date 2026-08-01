@@ -22,7 +22,7 @@ RAG-powered safety recommendations. Contributed [your specific piece].
 
 **📊 DSA**
 
-320+ problems solved, focus on Dynamic Programming. [→ LeetCode](https://leetcode.com/u/theDummy/)
+350+ problems solved, focus on Dynamic Programming. [→ LeetCode](https://leetcode.com/u/theDummy/)
 
 **🌐 More**
 
