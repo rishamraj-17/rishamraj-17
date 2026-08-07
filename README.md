@@ -6,7 +6,7 @@ Computer Engineering student at Kathmandu University, class of 2027.
 
 **💻 Stack**
 
-`Java` `Spring Boot` `Python` `PyOpenGL`
+`Java` `Spring Boot` `Python`
 
 **📊 DSA**
 
