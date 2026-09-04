@@ -8,10 +8,6 @@ Computer Engineering student at Kathmandu University, class of 2027.
 
 `Java` `Spring Boot` `Python`
 
-**📊 DSA**
-
-350+ problems solved, focus on Dynamic Programming. [→ LeetCode](https://leetcode.com/u/theDummy/)
-
 **🌐 More**
 
 Email: rajrisham06@gmail.com
